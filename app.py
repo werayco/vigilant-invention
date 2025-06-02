@@ -8,7 +8,7 @@ import os
 from datetime import datetime
 
 
-load_dotenv()
+# load_dotenv()
 # url = os.getenv("SOEMAIL_LLM_URI")
 # witai = os.getenv("WITAI")
 
